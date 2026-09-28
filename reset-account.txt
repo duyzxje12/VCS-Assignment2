@@ -1,0 +1,12 @@
+US-03: Reset Account
+
+Feature: Reset password
+
+As a user, I want to reset my account password, so that I can change my password in case I forget it.
+
+Steps:
+1. User enters their email.
+2. System checks whether the email exists.
+3. User enters a new password.
+4. System updates the password.
+5. System displays a success message.
