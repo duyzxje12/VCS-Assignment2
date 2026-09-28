@@ -15,3 +15,6 @@ Validation:
 - Email must not be empty.
 - New password must not be empty.
 - New password must contain at least 8 characters.
+
+Result:
+After successfully changing the password, the system informs the user that the password has been updated.
