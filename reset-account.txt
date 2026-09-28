@@ -10,3 +10,8 @@ Steps:
 3. User enters a new password.
 4. System updates the password.
 5. System displays a success message.
+
+Validation:
+- Email must not be empty.
+- New password must not be empty.
+- New password must contain at least 8 characters.
